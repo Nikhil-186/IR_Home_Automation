@@ -1,7 +1,7 @@
 // Code written by Nikhil. Language- C++
 // Science Project
 // Topic- Home Automation
-// GitHub Repository- 
+// GitHub Repository- https://github.com/Nikhil-186/IR_Home_Automation
 
 #include <IRremote.h>
 
